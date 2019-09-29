@@ -1,5 +1,5 @@
 //pragma experimental ABIEncoderV2;
-pragma solidity >=0.4.24;//pragma solidity ^0.5.10;
+pragma solidity >=0.4.24;
 
 //Importing openzeppelin-solidity ERC-721 implemented Standard
 import "../node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721.sol";
